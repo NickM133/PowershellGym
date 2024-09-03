@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Nick Mol"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/PowershellGym.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT Consultant and Powershell enthousiast"#
   location         : "The Netherlands"
   email            : # "mail@powershellgym.com"
