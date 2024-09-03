@@ -1,11 +1,10 @@
 ---
-title: "Welcome to PowershellGym.com"
+title: "Welcome to PowershellGym.com – a weekly Powershell workout"
 layout: single
 permalink: /about/
 author_profile: true
 ---
 
-# Welcome to PowershellGym.com – a weekly Powershell workout
 ## Who am I?
 
 Hello, all Powershell enthusiasts and curious minds! My name is Nick, and I’m excited to welcome you to PowershellGym.com. Because of my passion for automation and my passion for scripting, I spent a few years navigating the mighty oceans of Powershell. During the day, I am an (Windows) engineer at a big Dutch banking institute, where I use the power of Powershell to optimize programs, automate tasks, and solve (complex) problems. At night I turn into a Powershell explorer, always looking for new challenges and limitations to overcome.
