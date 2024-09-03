@@ -1,6 +1,6 @@
 ---
 title: "Welcome to PowershellGym.com – a weekly Powershell workout"
-layout: single
+layout: home
 permalink: /home/
 author_profile: true
 ---
