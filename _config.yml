@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Nick Mol"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "Powershell enthousiast"
+  bio              : #
   location         : "The Netherlands"
   email            : # "mail@powershellgym.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:mail@powershellgym.com"
+      url: "mailto:mail@powershellgym.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
