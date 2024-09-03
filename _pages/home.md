@@ -1,7 +1,7 @@
 ---
 title: "Welcome to PowershellGym.com – a weekly Powershell workout"
 layout: home
-permalink: /home/
+permalink: /
 author_profile: true
 ---
 
