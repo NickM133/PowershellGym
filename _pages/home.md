@@ -19,7 +19,7 @@ You can follow my 60-day journey right here, where I'll be diving into different
 
 ### Week 1: Entra ID
 
-- Day 1: [Entra ID User Management module - a module to create, update and delete Entra ID users, with error handling and logging](_posts/week1/2024-09-04-Entra-ID-User-Management-module.md)
+- Day 1: [Entra ID User Management module - a module to create, update and delete Entra ID users, with error handling and logging](2024-09-04-Entra-ID-User-Management-module.md)
 - Day 2: 
 - Day 3: 
 - Day 4: 
@@ -29,13 +29,13 @@ You can follow my 60-day journey right here, where I'll be diving into different
 
 ### Week 2: Azure
 
-	- Day 8:
-	- Day 9:
-	- Day 10:
-	- Day 11:
-	- Day 12:
-	- Day 13:
-	- Day 14:
+- Day 8:
+- Day 9:
+- Day 10:
+- Day 11:
+- Day 12:
+- Day 13:
+- Day 14:
 
 …and so forth until Week 9, I'll update this list everyday
 
