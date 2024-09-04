@@ -7,7 +7,7 @@ author_profile: true
 
 ## Hello PowerShell enthusiasts!
 
-After a bit of a rocky start on a less-than-reliable VPS (Contabo...), PowerShell Gym has found a new home here on GitHub Pages. Transitioning from WordPress to markdown and GitHub has been a somewhat of a learning curve, but definitely a step in the right direction towards less clutter and more stability. No more weekly Wordpress updates just for maintenance—now it’s all about the code and the content!
+After a bit of a rocky start on a less-than-reliable (Contabo...) VPS, PowerShellGym.com has found a new home here on GitHub Pages. Transitioning from WordPress to markdown and GitHub has been a somewhat of a learning curve, but definitely a step in the right direction towards less clutter and more stability. No more weekly Wordpress updates just for maintenance—now it’s all about the code and the content!
 
 ## What’s New?
 
@@ -15,9 +15,9 @@ Starting today, I’m shifting gears from weekly to daily PowerShell exercises. 
 
 ## Follow My Journey
 
-You can follow my 60-day journey right here. I’ll organize the posts by week, making it easy to track progress and dive into specific scripts:
+You can follow my 60-day journey right here, where I'll be diving into different aspects of Powershell each week. Each week has a unique theme, allowing me to explore specific areas in depth:
 
-### Week 1:
+### Week 1: Entra ID
 
 	- Day 1: 
 	- Day 2: 
@@ -27,7 +27,7 @@ You can follow my 60-day journey right here. I’ll organize the posts by week, 
 	- Day 6: 
 	- Day 7: 
 
-### Week 2:
+### Week 2: Azure
 
 	- Day 8:
 	- Day 9:
