@@ -19,7 +19,7 @@ You can follow my 60-day journey right here, where I'll be diving into different
 
 ### Week 1: Entra ID
 
-- Day 1: [Entra ID User Management module - a module to create, update and delete Entra ID users, with error handling and logging](2024-09-04-Entra-ID-User-Management-module.md)
+- Day 1: [Entra ID User Management module - a module to create, update and delete Entra ID users, with error handling and logging](/2024-09-04-Entra-ID-User-Management-module)
 - Day 2: 
 - Day 3: 
 - Day 4: 
