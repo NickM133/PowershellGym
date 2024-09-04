@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Nick Mol"
   avatar           : "/assets/images/PowershellGym.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "IT Consultant and Powershell enthousiast"#
+  bio              : "IT Consultant and Powershell enthusiast"#
   location         : "The Netherlands"
   email            : # "mail@powershellgym.com"
   links:
